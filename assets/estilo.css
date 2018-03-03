@@ -1,0 +1,193 @@
+body {
+  min-height: 900px;
+  /* height: 100%; */
+  padding-top: 70px;
+	/* background-image: url('images/purple-blue-gradient.png'); */
+  background: linear-gradient(#C1DCED, #C4DBED, #C7D9ED, #C5D7EB, #C9D5EB, #CED3E7, #CFD0E5, #D2CEE5, #D6C9E3, #D6C6E1);
+}
+
+#whiteMiddle{
+  padding-left: 0;
+	/* min-height: 2000px; */
+	background-color: white;
+  border-radius: 20px;
+  margin-bottom: 50px;
+}
+
+.box-shadow:after {
+    width: 100%;
+    box-shadow: 0px 0px 8px 2px #000000;
+}
+/* #banner-container{
+	background-image: url('images/purple-blue-gradient.png');
+} */
+
+.banner	{
+	background-image: url('images/cartel/tittle.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 240px
+}
+
+.bannerColor{
+  width: 101.75%;
+  position: relative;
+  background-color: #C1DCED
+}
+
+.fill{
+  width: initial
+}
+
+#whatIs{
+	position: relative;
+	padding-top: 50px
+}
+
+.paragraph{
+  text-align: justify;
+	padding-top: 5px
+
+}
+
+.rectImagen{
+	height: 700px;
+	width: 520px;
+
+}
+
+.objetivo{
+	margin-top: 0;
+  padding-right: 50px;
+  background-color: #e6e6e6;
+}
+
+.objetivo h1{
+  text-align: center;
+}
+
+.navbar-brand{
+	padding-right: 120px
+}
+
+#tituloPrograma{
+	text-align: center;
+}
+
+h1{
+	font-family: "Times New Roman";
+	font-size: 125px
+}
+
+.titulo{
+    padding-top: 30px
+}
+
+h2{
+  font-size: 80px;
+  font-family: "Time New Roman";
+  text-align: center;
+}
+
+p{
+  font-family: "Time New Roman"
+}
+
+h3{
+  font-weight: bold;
+  font-family: "Times New Roman"
+}
+h4{
+  font-family: "Times New Roman"
+}
+h5{
+  font-family: "Times New Roman";
+  font-size: 18px;
+}
+
+
+#parrafoIntro{
+  background-color: #f2f2f2;
+  height: 850px;
+}
+/* padding para el nav bar */
+#navbar ul li{
+	padding-right: 70px
+}
+
+.odd{
+  background-color: #f2f2f2;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.even{
+  background-color: #e6e6e6;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#contact-row{
+  padding-bottom: 40px;
+}
+
+#mesa-arabes h4{
+  font-size: 40px
+}
+/* .even h4{
+  float: right;
+}
+
+.even p{
+  float: right;
+} */
+
+#mesa-arabes p{
+  font-size: 20px
+}
+
+#arabes-titulo{
+  text-align: center;
+  /* height: 100px; */
+  /* background-color: #787799; */
+  background: linear-gradient(to top left, #EFC3F4, #DCCCF1, #D4D1F0, #C1DBED, #B7E0EB, #A4EBE8)
+}
+
+#arabes-titulo h2{
+  letter-spacing: 4px;
+  font-size: 45px;
+  color: #165253;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+#fb-button{
+  border-radius: 25px
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.talleres h5{
+  text-align: justify;
+  text-decoration: underline;
+}
+.talleres p{
+  text-align: justify;
+}
